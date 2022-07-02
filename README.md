@@ -2,9 +2,9 @@
 Wildfire flame detection based on deep learning & image processing
 
 ## Table of Contents
-- [Flame Detection](Flame_detection)
-- [Flame Image Generating](Flame_GAN)
 - [Background Information](#Background)
+- [Flame Detection](#Flame Detection)
+- [Flame Images Generating](Flame Images Generating)
 - [Install](#install)
 - [Packages](#packages)
 - [Contributing](#contributing)
@@ -32,7 +32,7 @@ This module only uses image processing method to detect flame zone on IR picture
 
 
 
-## Flame Detection
+## Flame Images Generating
 This module uses GAN-based deep learning method to generate RGB flame images from given IR image. For example, input an arbitrary IR image of wildfire, the model will generate a virtual RGB image to describe the fire situation.
 
 This part is only on experimental stage, but it's good to research the relationship between the wildfire and its smoke.
