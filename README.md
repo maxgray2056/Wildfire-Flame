@@ -27,7 +27,7 @@ More information, please reference our previous paper:
 ## Flame Detection
 This module only uses image processing method to detect flame zone on IR pictures, then draw bounding boxes on related RGB images.
 
-For codes, please go to: [Flame_Detection](Flame_detection)
+For codes, please go to: [Flame_detection](Flame_detection)
 
 <img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_detection/plot/Figure%202022-06-30%20001211.png" width="500px">
 
@@ -84,7 +84,6 @@ from torch.nn import CrossEntropyLoss
 from torch.nn import ModuleList
 from torch.nn.modules.loss import _WeightedLoss
 
-from model_list import*
 from torchsummary import summary
 from torch.utils.data import DataLoader
 ```
