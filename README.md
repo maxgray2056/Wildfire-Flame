@@ -14,6 +14,10 @@ Wildfire flame detection based on deep learning & image processing
 TBD
 
 
+## Flame Detection
+#Flame_detection/plot/Figure 2022-06-30 001211.png
+
+
 ## Install
 This project uses Python 3.8 based on Spyder
 
