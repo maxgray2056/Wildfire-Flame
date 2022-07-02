@@ -2,8 +2,8 @@
 Wildfire flame detection based on deep learning & image processing
 
 ## Table of Contents
-- [Flame Detection](#Flame_detection)
-- [Flame Image Generating](#Flame_GAN)
+- [Flame Detection](Flame_detection)
+- [Flame Image Generating](Flame_GAN)
 - [Background Information](#Background)
 - [Install](#install)
 - [Packages](#packages)
@@ -11,7 +11,15 @@ Wildfire flame detection based on deep learning & image processing
 
 
 ## Background
-TBD
+In this project, we propose a drone-based wildfire monitoring system for remote and hard-to-reach areas. This system utilizes autonomous unmanned aerial vehicles (UAVs) with the main advantage of providing on-demand monitoring service faster than the current approaches of using satellite images, manned aircraft and remotely controlled drones.
+
+
+Avalible datasets for now:
+<a href="https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs">THE FLAME DATASET: AERIAL IMAGERY PILE BURN DETECTION USING DRONES (UAVS)</a>
+
+
+More information, please reference our previous paper:
+<a href="https://ieeexplore.ieee.org/abstract/document/8845309">Wildfire Monitoring in Remote Areas using Autonomous Unmanned Aerial Vehicles</a>
 
 
 ## Flame Detection
@@ -30,8 +38,6 @@ This part is only on experimental stage, but it's good to research the relations
 <img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_GAN/plot/Figure%202022-06-16%20233050.png" width="500px">
 
 
-More information, please reference our previous paper:
-<a href="https://ieeexplore.ieee.org/abstract/document/8845309">Wildfire Monitoring in Remote Areas using Autonomous Unmanned Aerial Vehicles</a>
 
 
 
@@ -97,4 +103,6 @@ from glob import glob
 This project is contributed by: 
 <a href="hao9@g.clemson.edu">hao9@clemson.edu</a>
 <a href="xiwenc@g.clemson.edu">xiwenc@clemson.edu</a>
+<a href="bryceh@g.clemson.edu">bryceh@clemson.edu</a>
 
+### Please cite our work if you think this project helps your research.
