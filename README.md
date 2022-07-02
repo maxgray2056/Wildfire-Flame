@@ -15,8 +15,9 @@ TBD
 
 
 ## Flame Detection
-#Flame_detection/plot/Figure 2022-06-30 001211.png
-<img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_detection/plot/Figure%202022-06-30%20001211.png" width="100px">
+This module only uses image processing method to detect flame zone on IR pictures, then draw bounding boxes on related RGB images.
+
+<img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_detection/plot/Figure%202022-06-30%20001211.png" width="500px">
 
 
 ## Install
