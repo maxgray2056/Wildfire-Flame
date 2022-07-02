@@ -13,6 +13,8 @@ Wildfire flame detection based on deep learning & image processing
 ## Background
 In this project, we propose a drone-based wildfire monitoring system for remote and hard-to-reach areas. This system utilizes autonomous unmanned aerial vehicles (UAVs) with the main advantage of providing on-demand monitoring service faster than the current approaches of using satellite images, manned aircraft and remotely controlled drones.
 
+<img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/flame.jpg" width="500px">
+
 
 Avalible datasets for now:
 <a href="https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs">THE FLAME DATASET: AERIAL IMAGERY PILE BURN DETECTION USING DRONES (UAVS)</a>
