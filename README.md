@@ -16,7 +16,8 @@ TBD
 
 ## Flame Detection
 #Flame_detection/plot/Figure 2022-06-30 001211.png
-![image](https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_detection/plot/Figure%202022-06-30%20001211.png)
+<img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_detection/plot/Figure%202022-06-30%20001211.png" width="100px">
+
 
 ## Install
 This project uses Python 3.8 based on Spyder
