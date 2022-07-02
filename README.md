@@ -2,9 +2,9 @@
 Wildfire flame detection based on deep learning & image processing
 
 ## Table of Contents
-- [Background Information](#Background)
-- [Flame Detection](#Flame Detection)
-- [Flame Images Generating](Flame Images Generating)
+- [Background Information](#background)
+- [Flame Detection](#flame-detection)
+- [Flame Images Generating](#flame-images-generating)
 - [Install](#install)
 - [Packages](#packages)
 - [Contributing](#contributing)
