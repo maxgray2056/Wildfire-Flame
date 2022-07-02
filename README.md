@@ -20,6 +20,22 @@ This module only uses image processing method to detect flame zone on IR picture
 <img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_detection/plot/Figure%202022-06-30%20001211.png" width="500px">
 
 
+
+
+## Flame Detection
+This module uses GAN-based deep learning method to generate RGB flame images from given IR image. For example, input an arbitrary IR image of wildfire, the model will generate a virtual RGB image to describe the fire situation.
+
+This part is only on experimental stage, but it's good to research the relationship between the wildfire and its smoke.
+
+<img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_GAN/plot/Figure%202022-06-16%20233050.png" width="500px">
+
+
+More information, please reference our previous paper:
+<a href="https://ieeexplore.ieee.org/abstract/document/8845309">Wildfire Monitoring in Remote Areas using Autonomous Unmanned Aerial Vehicles</a>
+
+
+
+
 ## Install
 This project uses Python 3.8 based on Spyder
 
